@@ -1,6 +1,6 @@
 A simple per-field graphql ratelimiter library. Meant to be used as middleware.
 
-WIP: Support for fragmentation.
+WIP: Support for graphql fragments.
 
 Supports custom async storage backends like redis. Check crate level documentation for more.
 
